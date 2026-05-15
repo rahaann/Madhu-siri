@@ -1,12 +1,8 @@
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/.idea/
+/.codex/
 /build
 /captures
 .externalNativeBuild
