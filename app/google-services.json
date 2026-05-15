@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793243303768",
+    "project_id": "positive-tuner-492211-u6",
+    "storage_bucket": "positive-tuner-492211-u6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793243303768:android:56670e4903194325b06f2d",
+        "android_client_info": {
+          "package_name": "com.discovers.madhusiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "paste your Api key here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793243303768:android:497602abfe079b36b06f2d",
+        "android_client_info": {
+          "package_name": "com.example.madhusiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
